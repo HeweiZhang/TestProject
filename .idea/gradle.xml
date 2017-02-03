@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ReFresh" />
+            <option value="$PROJECT_DIR$/andfixdemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cavasdemo" />
+            <option value="$PROJECT_DIR$/databindingtest" />
+            <option value="$PROJECT_DIR$/dialogdemo" />
+            <option value="$PROJECT_DIR$/markdownviewdemo" />
+            <option value="$PROJECT_DIR$/memorytest" />
+            <option value="$PROJECT_DIR$/mvpsample" />
+            <option value="$PROJECT_DIR$/nightdaytheme" />
+            <option value="$PROJECT_DIR$/okgo" />
+            <option value="$PROJECT_DIR$/okgodemo" />
+            <option value="$PROJECT_DIR$/permissioncheck" />
+            <option value="$PROJECT_DIR$/retrofitdemo" />
+            <option value="$PROJECT_DIR$/rxjavademo" />
+            <option value="$PROJECT_DIR$/servicedemo" />
+            <option value="$PROJECT_DIR$/supendtitleviewdema" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
+            <option value="$PROJECT_DIR$/viewpagerbannerdemo" />
+            <option value="$PROJECT_DIR$/wxlogin" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':dialogdemo', ':toolbardemo', ':rxjavademo', ':retrofitdemo', ':viewpagerbannerdemo', ':andfixdemo', ':ReFresh', ':cavasdemo', ':permissioncheck', ':okgodemo', ':okgo', ':wxlogin', ':databindingtest', ':supendtitleviewdema', ':mvpsample', ':nightdaytheme', ':markdownviewdemo', ':servicedemo', ':memorytest'

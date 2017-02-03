@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReFresh/ReFresh.iml" filepath="$PROJECT_DIR$/ReFresh/ReFresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andfixdemo/andfixdemo.iml" filepath="$PROJECT_DIR$/andfixdemo/andfixdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cavasdemo/cavasdemo.iml" filepath="$PROJECT_DIR$/cavasdemo/cavasdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databindingtest/databindingtest.iml" filepath="$PROJECT_DIR$/databindingtest/databindingtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogdemo/dialogdemo.iml" filepath="$PROJECT_DIR$/dialogdemo/dialogdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/markdownviewdemo/markdownviewdemo.iml" filepath="$PROJECT_DIR$/markdownviewdemo/markdownviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memorytest/memorytest.iml" filepath="$PROJECT_DIR$/memorytest/memorytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpsample/mvpsample.iml" filepath="$PROJECT_DIR$/mvpsample/mvpsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nightdaytheme/nightdaytheme.iml" filepath="$PROJECT_DIR$/nightdaytheme/nightdaytheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgo/okgo.iml" filepath="$PROJECT_DIR$/okgo/okgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgodemo/okgodemo.iml" filepath="$PROJECT_DIR$/okgodemo/okgodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/permissioncheck/permissioncheck.iml" filepath="$PROJECT_DIR$/permissioncheck/permissioncheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" filepath="$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavademo/rxjavademo.iml" filepath="$PROJECT_DIR$/rxjavademo/rxjavademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedemo/servicedemo.iml" filepath="$PROJECT_DIR$/servicedemo/servicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supendtitleviewdema/supendtitleviewdema.iml" filepath="$PROJECT_DIR$/supendtitleviewdema/supendtitleviewdema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbardemo/toolbardemo.iml" filepath="$PROJECT_DIR$/toolbardemo/toolbardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerbannerdemo/viewpagerbannerdemo.iml" filepath="$PROJECT_DIR$/viewpagerbannerdemo/viewpagerbannerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxlogin/wxlogin.iml" filepath="$PROJECT_DIR$/wxlogin/wxlogin.iml" />
+    </modules>
+  </component>
+</project>
